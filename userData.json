@@ -1,0 +1,19 @@
+{
+  "users": [
+   
+    {
+      "id": "1744889745046",
+      "username": "test3",
+      "email": "test3@mail.com",
+      "password": "$2b$10$hrp46f3P0X.b5eM8xVHKy.ST5vMcMWXI89R2xicMKlTJy40ExXUDm",
+      "createdAt": "2025-04-17T11:35:45.046Z"
+    },
+    {
+      "id": "1744897192376",
+      "username": "test4",
+      "email": "test4@mail.com",
+      "password": "$2b$10$FqmrUKMUuEDNx4bXhbjLkeRtQEFcZVViMzRUishdziq8u97Aj6W.u",
+      "createdAt": "2025-04-17T13:39:52.376Z"
+    }
+  ]
+}
